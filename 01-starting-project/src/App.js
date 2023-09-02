@@ -12,7 +12,7 @@
 // export default App;
 
 import UserFinder from "./components/UserFinder";
-import UsersContext from "../Store/users-context";
+import UsersContext from "./Store/users-context";
 
 const DUMMY_USERS = [
   { id: "u1", name: "Max" },
